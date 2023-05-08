@@ -8,16 +8,16 @@ You will be developing a web application for a charity organization to manage th
 - Sign up form for new users to create an account with basic details (e.g. name, email, password)
 - Login form for existing users to access the application
 
-2. Donor management:
+2. Donor dashboard:
 - Donation form with fields for donation amount, donor information (e.g. name, email), and additional notes
 
-3. Donation management:
+3. Organization dashboard:
 - Donation list page for charity organization staff to view all incoming donations
 - Donation details page to view details of each donation, including the donor's information and donation amount
 - Donation reports page to generate reports on donation trends (e.g. total donations by month, top donors by amount donated)
 
 4. Responsive design:
-- Implement responsive design principles to ensure the application is accessible on various devices, including desktops, tablets, and smartphones
+- Implement responsive design principles to ensure the application is accessible on various devices, including desktops and smartphones
 - Use CSS frameworks (e.g. Bootstrap, Materialize) to expedite the styling process and ensure consistent styling across the application
 
 
