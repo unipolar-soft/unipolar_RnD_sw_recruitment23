@@ -47,3 +47,4 @@ Once the development is complete, You should submit the following to us:
 1. A link to the public Git repository containing the source code.
 2. A document explaining how to deploy or run the application.
 3. Any additional notes the applicant would like to include.
+4. Don't worry about completing all the features, submit as much as you have completed within the deadline.
